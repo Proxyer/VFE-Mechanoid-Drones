@@ -2,7 +2,7 @@
 <Defs>
 	<ThingDef ParentName="BaseVFEMachine">
 		<defName>VFEMA_Mechanoids_Farmer</defName>
-		<label>farmer mechanoid</label>
+		<label>farmer</label>
 		<description>A simple semi-autonomous drone about human height. This drone is capable of growing and collecting plants on an amateur level.</description>
 		<statBases>
 			<MoveSpeed>1.9</MoveSpeed>
@@ -56,7 +56,7 @@
 	</ThingDef>
 	<PawnKindDef ParentName="BaseMechanoidKind">
 		<defName>VFEMA_Mechanoids_Farmer</defName>
-		<label>farmer mechanoid</label>
+		<label>farmer</label>
 		<race>VFEMA_Mechanoids_Farmer</race>
 		<combatPower>99999</combatPower>
 		<lifeStages>
@@ -75,7 +75,7 @@
 
 	<ThingDef ParentName="BaseVFEMachine">
 		<defName>VFEMA_Mechanoids_Kitchen</defName>
-		<label>kitchen mechanoid</label>
+		<label>kitchen</label>
 		<description>A simple semi-autonomous drone about human height. This drone is capable of cooking food at an amateur level.</description>
 		<statBases>
 			<MoveSpeed>1.9</MoveSpeed>
@@ -129,7 +129,7 @@
 	</ThingDef>
 	<PawnKindDef ParentName="BaseMechanoidKind">
 		<defName>VFEMA_Mechanoids_Kitchen</defName>
-		<label>kitchen mechanoid</label>
+		<label>kitchen</label>
 		<race>VFEMA_Mechanoids_Kitchen</race>
 		<combatPower>99999</combatPower>
 		<lifeStages>

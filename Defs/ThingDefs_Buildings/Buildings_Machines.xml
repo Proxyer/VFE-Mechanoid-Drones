@@ -3,7 +3,7 @@
 	<ThingDef ParentName="BuildingBase">
 		<thingClass>VFE.Mechanoids.Buildings.Building_BedMachine</thingClass>
 		<defName>VFEMA_Mechanoids_FarmerBase</defName>
-		<label>grower drone charging station</label>
+		<label>grower charging station</label>
 		<description>A station for assembling and recharging grower drone.</description>
 		<graphicData>
 			<texPath>Things/Pawn/Mechanoid/Farmer_ChargingStation</texPath>
@@ -78,7 +78,7 @@
 	<ThingDef ParentName="BuildingBase">
 		<thingClass>VFE.Mechanoids.Buildings.Building_BedMachine</thingClass>
 		<defName>VFEMA_Mechanoids_KitchenBase</defName>
-		<label>foodmaker drone charging station</label>
+		<label>foodmaker charging station</label>
 		<description>A station for assembling and recharging foodmaker drone.</description>
 		<graphicData>
 			<texPath>Things/Pawn/Mechanoid/Kitchen_ChargingStation</texPath>

@@ -9,7 +9,6 @@
 			<ArmorRating_Blunt>0.22</ArmorRating_Blunt>
 			<ArmorRating_Sharp>0.22</ArmorRating_Sharp>
 			<PsychicSensitivity>0.25</PsychicSensitivity>
-			<MedicalTendSpeed>2</MedicalTendSpeed>
 		</statBases>
 		<tools>
 			<li>
@@ -82,7 +81,6 @@
 			<ArmorRating_Blunt>0.22</ArmorRating_Blunt>
 			<ArmorRating_Sharp>0.22</ArmorRating_Sharp>
 			<PsychicSensitivity>0.25</PsychicSensitivity>
-			<MedicalTendSpeed>2</MedicalTendSpeed>
 		</statBases>
 		<tools>
 			<li>

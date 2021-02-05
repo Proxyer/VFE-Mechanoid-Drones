@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VFEMA_Mechanoids_FarmerBase.label>зарядная станция для земледела</VFEMA_Mechanoids_FarmerBase.label>
-  <VFEMA_Mechanoids_FarmerBase.description>Станция ремонта и подзарядки для дрона земледела.</VFEMA_Mechanoids_FarmerBase.description>
+  <VFEMA_Mechanoids_FarmerBase.label>станция зарядки земледела</VFEMA_Mechanoids_FarmerBase.label>
+  <VFEMA_Mechanoids_FarmerBase.description>Станция для сборки и подзарядки земледела.</VFEMA_Mechanoids_FarmerBase.description>
 
-  <VFEMA_Mechanoids_KitchenBase.label>зарядная станция для кухаря</VFEMA_Mechanoids_KitchenBase.label>
-  <VFEMA_Mechanoids_KitchenBase.description>Станция ремонта и подзарядки для дрона кухаря.</VFEMA_Mechanoids_KitchenBase.description>
+  <VFEMA_Mechanoids_KitchenBase.label>станция зарядки кухаря</VFEMA_Mechanoids_KitchenBase.label>
+  <VFEMA_Mechanoids_KitchenBase.description>Станция для сборки и подзарядки кухаря.</VFEMA_Mechanoids_KitchenBase.description>
 </LanguageData>

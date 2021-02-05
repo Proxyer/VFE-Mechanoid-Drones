@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <success>Always</success>
+    <mods>
+      <li>[FSF] Complex Jobs</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName="VFEMA_Mechanoids_FarmerBase"]/comps/li[@Class="VFE.Mechanoids.CompProperties_MachineChargingStation"]/allowedWorkTypes</xpath>
+      <value>
+        <li>FSFHarvesting</li>
+      </value>
+    </match>
+  </Operation>
+</Patch>

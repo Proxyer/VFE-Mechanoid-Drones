@@ -6,17 +6,14 @@
 		<li>1.2</li>
 	</supportedVersions>
 	<packageId>seos.vfe.mechanoids.drones</packageId>
-	<description>Adds several new droids on to the VFE - Mechanoids mod!
-- Farmer mechanoid, droid that does gardening.
-- Kitchen mechanoid, droid who cooks food.
-	</description>
+	<description>Adds several new droids on to the VFE - Mechanoids mod!</description>
 	<modDependencies>
 		<li>
 			<packageId>OskarPotocki.VFE.Mechanoid</packageId>
 			<displayName>Vanilla Factions Expanded - Mechanoids</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2329011599</steamWorkshopUrl>
 		</li>
-    <li>
+		<li>
 			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
 			<displayName>Vanilla Expanded Framework</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1854607105</steamWorkshopUrl>
